@@ -114,10 +114,6 @@ The RC Sumo Robot is designed to compete in sumo robot wrestling by pushing an o
 - **Mode Switching Issues:**  
   - Debounce delays are implemented; if switching feels unresponsive, consider adjusting the delay times.
 
-## License
-
-This project is open source under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Credits
 
 - **Developed by:** [Dave Matthew | DMVexious on Github]
